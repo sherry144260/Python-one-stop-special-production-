@@ -1,0 +1,4 @@
+整個呈現 : git action
+程式檔 : python 檔
+資料庫呈現 : firebase
+排成方式 : 用yml在gitaction
